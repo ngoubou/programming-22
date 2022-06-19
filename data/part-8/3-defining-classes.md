@@ -11,7 +11,7 @@ After this section
 - You will know how to define your own classes
 - You will be able to create objects based on classes you've defined yourself
 - You will know how to write a constructor
-- You are familiar with the parameter name `self`
+- You will be familiar with the parameter name `self`
 - You will know what attributes are and how they are used
 
 </text-box>
